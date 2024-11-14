@@ -1,0 +1,14 @@
+C:\Users\SebastianKapičák\Desktop\VDrinkuDalsiSingleton\VDrinkuDalsiSingleton\obj\Debug\net8.0\VDrinkuDalsiSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SebastianKapičák\Desktop\VDrinkuDalsiSingleton\VDrinkuDalsiSingleton\obj\Debug\net8.0\VDrinkuDalsiSingleton.AssemblyInfoInputs.cache
+C:\Users\SebastianKapičák\Desktop\VDrinkuDalsiSingleton\VDrinkuDalsiSingleton\obj\Debug\net8.0\VDrinkuDalsiSingleton.AssemblyInfo.cs
+C:\Users\SebastianKapičák\Desktop\VDrinkuDalsiSingleton\VDrinkuDalsiSingleton\obj\Debug\net8.0\VDrinkuDalsiSingleton.csproj.CoreCompileInputs.cache
+C:\Users\SebastianKapičák\Desktop\VDrinkuDalsiSingleton\VDrinkuDalsiSingleton\bin\Debug\net8.0\VDrinkuDalsiSingleton.exe
+C:\Users\SebastianKapičák\Desktop\VDrinkuDalsiSingleton\VDrinkuDalsiSingleton\bin\Debug\net8.0\VDrinkuDalsiSingleton.deps.json
+C:\Users\SebastianKapičák\Desktop\VDrinkuDalsiSingleton\VDrinkuDalsiSingleton\bin\Debug\net8.0\VDrinkuDalsiSingleton.runtimeconfig.json
+C:\Users\SebastianKapičák\Desktop\VDrinkuDalsiSingleton\VDrinkuDalsiSingleton\bin\Debug\net8.0\VDrinkuDalsiSingleton.dll
+C:\Users\SebastianKapičák\Desktop\VDrinkuDalsiSingleton\VDrinkuDalsiSingleton\bin\Debug\net8.0\VDrinkuDalsiSingleton.pdb
+C:\Users\SebastianKapičák\Desktop\VDrinkuDalsiSingleton\VDrinkuDalsiSingleton\obj\Debug\net8.0\VDrinkuDalsiSingleton.dll
+C:\Users\SebastianKapičák\Desktop\VDrinkuDalsiSingleton\VDrinkuDalsiSingleton\obj\Debug\net8.0\refint\VDrinkuDalsiSingleton.dll
+C:\Users\SebastianKapičák\Desktop\VDrinkuDalsiSingleton\VDrinkuDalsiSingleton\obj\Debug\net8.0\VDrinkuDalsiSingleton.pdb
+C:\Users\SebastianKapičák\Desktop\VDrinkuDalsiSingleton\VDrinkuDalsiSingleton\obj\Debug\net8.0\VDrinkuDalsiSingleton.genruntimeconfig.cache
+C:\Users\SebastianKapičák\Desktop\VDrinkuDalsiSingleton\VDrinkuDalsiSingleton\obj\Debug\net8.0\ref\VDrinkuDalsiSingleton.dll
